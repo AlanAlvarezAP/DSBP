@@ -1,0 +1,51 @@
+header {
+  background-color: #585858;
+  display: flex;
+  align-items: center;
+  height: 175px;
+}
+#Disponibilidad{
+  color: #9f9f9f;
+  margin-left: 65px;
+}
+#imagen {
+  margin-left: 100px;
+}
+#name{
+  color: white;
+}
+#Nombre {
+  flex-direction: column;
+  margin-left: 500px;
+}
+#main{
+  display:flex;
+  justify-content: space-between;
+}
+#right {
+  margin-right: 40px;
+  width: 60%;
+}
+#left{
+  background-color:	#f2f2f2;
+  text-indent:15px;
+  line-height: 1.5;
+  width: 35%;
+}
+hr{
+  height:2px;
+  width:95%;
+  background-color:black;
+}
+img {
+  margin-bottom: -7px;
+  text-align:left;
+  border-radius: 50%;
+}
+body {
+  font-family: "Roboto", Arial, sans-serif;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
